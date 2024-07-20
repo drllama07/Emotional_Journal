@@ -1,4 +1,0 @@
-gui/  # Ignore the entire "venv" directory and its contents
-__pycache__/*  # Ignore all files within the "__pycache__" directory
-node_modules/  # Ignore the entire "node_modules" directory (common for Node.js projects)
-*.log  # Ignore all files with the ".log" extension
